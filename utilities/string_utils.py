@@ -1,0 +1,2 @@
+def capitalize():
+    return "capitalisation"
